@@ -1,0 +1,19 @@
+.chars .char {
+    border-bottom: 1px solid #EAEAEA;
+    justify-content: space-between;
+}
+
+.chars .char__title {
+    font-size: 16px;
+    line-height: 1;
+    margin: 0;
+}
+
+.chars .char__value {
+    padding-right: 0;
+    text-align: right;
+}
+
+.author-books-list ul {
+    margin-bottom: 0!important;
+}
